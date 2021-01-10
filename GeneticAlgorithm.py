@@ -9,7 +9,7 @@ def evaluate_fitness_function(population):
 
 
 class GeneticAlgorithm:
-    def __init__(self, func, pop_size=50, gen_limit=100, tournament_size=2, elite=5,
+    def __init__(self, func, pop_size=50, gen_limit=100, tournament_size=3, elite=5,
                  x_min=-50, x_max=50, y_min=-50, y_max=50):
         self.func = func
         self.pop_size = pop_size

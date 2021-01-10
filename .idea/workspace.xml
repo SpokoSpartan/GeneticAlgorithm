@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a46247b4-73db-4d26-b162-718fa78a6bcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1mpwZEPpzWXh7GTfxAohmRp5EJW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ga.py" />
+  </component>
+  <component name="RunManager" selected="Python.__init__">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="algo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.algo" />
+      <item itemvalue="Python.__init__" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a46247b4-73db-4d26-b162-718fa78a6bcb" name="Default Changelist" comment="" />
+      <created>1610203893203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610203893203</updated>
+      <workItem from="1610203901364" duration="4082000" />
+      <workItem from="1610298017253" duration="1602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610206508305">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="141" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738/1366.0.1920.1080@0.30.1366.738" timestamp="1610206508305" />
+    <state x="466" y="157" width="424" height="487" key="FileChooserDialogImpl" timestamp="1610206506954">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="466" y="157" width="424" height="487" key="FileChooserDialogImpl/0.30.1366.738/1366.0.1920.1080@0.30.1366.738" timestamp="1610206506954" />
+    <state width="1320" height="254" key="GridCell.Tab.0.bottom" timestamp="1610299602017">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="182" key="GridCell.Tab.0.bottom/0.30.1366.738/1366.0.1920.1080@0.30.1366.738" timestamp="1610208403608" />
+    <state width="1320" height="254" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1610299602017" />
+    <state width="1320" height="254" key="GridCell.Tab.0.center" timestamp="1610299602016">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="182" key="GridCell.Tab.0.center/0.30.1366.738/1366.0.1920.1080@0.30.1366.738" timestamp="1610208403608" />
+    <state width="1320" height="254" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1610299602016" />
+    <state width="1320" height="254" key="GridCell.Tab.0.left" timestamp="1610299602015">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="182" key="GridCell.Tab.0.left/0.30.1366.738/1366.0.1920.1080@0.30.1366.738" timestamp="1610208403607" />
+    <state width="1320" height="254" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1610299602015" />
+    <state width="1320" height="254" key="GridCell.Tab.0.right" timestamp="1610299602016">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="182" key="GridCell.Tab.0.right/0.30.1366.738/1366.0.1920.1080@0.30.1366.738" timestamp="1610208403608" />
+    <state width="1320" height="254" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1610299602016" />
+    <state x="376" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1610298034764">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="376" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1610298034764" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1610298550190">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1610298550190" />
+    <state x="408" y="292" width="540" height="216" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1610299619614">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="408" y="292" width="540" height="216" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.30.1366.738@0.30.1366.738" timestamp="1610299619614" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GA$ga.coverage" NAME="ga Coverage Results" MODIFIED="1610208403591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GA$algo.coverage" NAME="algo Coverage Results" MODIFIED="1610205248682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GA$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1610299602000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
